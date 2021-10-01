@@ -4,12 +4,12 @@
 
 {
     "name": "OAuth Multi Token",
-    "version": "13.0.1.0.0",
+    "version": "13.0.2.0.0",
     "license": "AGPL-3",
     "author": "Florent de Labarre, Camptocamp, Odoo Community Association (OCA)",
     "summary": """Allow multiple connection with the same OAuth account""",
     "category": "Tool",
-    "website": "https://github.com/OCA/server-auth/",
+    "website": "https://github.com/OCA/server-auth",
     "depends": ["auth_oauth"],
     "data": [
         "security/ir.model.access.csv",
